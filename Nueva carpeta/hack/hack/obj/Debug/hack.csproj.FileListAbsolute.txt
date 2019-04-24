@@ -1,0 +1,10 @@
+D:\Interfaz\hack\hack\bin\Debug\hack.exe.config
+D:\Interfaz\hack\hack\bin\Debug\hack.exe
+D:\Interfaz\hack\hack\bin\Debug\hack.pdb
+D:\Interfaz\hack\hack\obj\Debug\hack.csprojAssemblyReference.cache
+D:\Interfaz\hack\hack\obj\Debug\hack.frm.resources
+D:\Interfaz\hack\hack\obj\Debug\hack.Properties.Resources.resources
+D:\Interfaz\hack\hack\obj\Debug\hack.csproj.GenerateResource.cache
+D:\Interfaz\hack\hack\obj\Debug\hack.csproj.CoreCompileInputs.cache
+D:\Interfaz\hack\hack\obj\Debug\hack.exe
+D:\Interfaz\hack\hack\obj\Debug\hack.pdb
